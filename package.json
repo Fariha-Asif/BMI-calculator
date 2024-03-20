@@ -1,5 +1,5 @@
 {
-  "name": "bmi-calculator",
+  "name": "cli-bmi-calculator",
   "version": "1.0.0",
   "description": "\"A simple BMI Calculator using Typescript, NodeJS and inquirer.\"",
   "main": "index.js",
